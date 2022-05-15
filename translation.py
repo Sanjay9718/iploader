@@ -7,8 +7,8 @@ You can upload HTTP/HTTPS direct link, Using this bot!
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    DOWNLOAD_START = "<b>Downloding To My Server</b> 📥 \n<code>Please Wait... Uploding Start Soon</code>"
-    UPLOAD_START = "<b>Uploding To Telegram</b> 📤 \n<code>😁😍👍Hurray!!!</code>"
+    DOWNLOAD_START = "<b>Downloading To My Server</b> 📥 \n<code>Please Wait... Uploading Start Soon</code>"
+    UPLOAD_START = "<b>Uploading To Telegram</b> 📤 \n<code>😁😍👍Hurray!!!</code>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
