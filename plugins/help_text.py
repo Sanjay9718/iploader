@@ -52,8 +52,9 @@ async def start(bot, update):
                         InlineKeyboardButton(
                             "Source", url="https://www.google.com"
                         ),
-                        InlineKeyboardButton("Owner", url="https://t.me/MR_BUL"),
                     ],
+                    [InlineKeyboardButton("Owner", url="https://t.me/MR_BUL")],
                 ]
-                reply_to_message_id=update.message_id
-            )
+            ),
+            reply_to_message_id=update.message_id
+        )
