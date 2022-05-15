@@ -54,6 +54,6 @@ async def start(bot, update):
                         ),
                         InlineKeyboardButton("Owner", url="https://t.me/MR_BUL"),
                     ],
-                [
+                ]
                 reply_to_message_id=update.message_id
             )
